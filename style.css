@@ -1,0 +1,17 @@
+<style>
+a:link {
+ color:lightblue;
+  a:visited { 
+  
+  color:pink;
+            background-color:lightblue;
+            }
+             
+  font size: 12px
+}
+  a:hover
+{ color:light lightgreen; 
+          }
+
+span{font-size:13px;
+    font-weight:bold:}
